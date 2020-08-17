@@ -1,4 +1,4 @@
-# AdventuresWithArtificialIntelligence-AAISS2020
+# Adventures with Artificial Intelligence
 
 [AAISS](http://aaiss.ceit.aut.ac.ir)  
 
